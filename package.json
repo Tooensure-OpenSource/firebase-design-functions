@@ -1,0 +1,31 @@
+{
+  "name": "firebase-design-functions",
+  "version": "1.0.0",
+  "description": "firebase cloud function design tool for rapid Api development CRUD operations using design patterns and OOP principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TooensureMaster/firebase-design-functions.git"
+  },
+  "keywords": [
+    "firestore",
+    "design",
+    "controller",
+    "tool",
+    "crud",
+    "tooensure"
+  ],
+  "author": "shawn bellazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TooensureMaster/firebase-design-functions/issues"
+  },
+  "homepage": "https://github.com/TooensureMaster/firebase-design-functions#readme",
+  "dependencies": {
+    "firebase-functions": "^3.18.0",
+    "firestore-implementation": "^1.0.1"
+  }
+}
